@@ -44,16 +44,16 @@ html {
   background-repeat: no-repeat;
   background-position: bottom center;
 
-  padding-top: 11.75em;
+  padding-top: 188px;
 }
 
 .banner-content {
   color: #fff;
-  padding-top: 7em;
+  padding-top: 110px;
 
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
-  background-size: 5.75em;
+  background-size: 90px;
   background-position: .5em 0;
 }
 
@@ -66,4 +66,3 @@ html {
   .nav {
     text-align: right;
   }
-  
